@@ -54,6 +54,8 @@ set "INSTALLER_PATH=%USERPROFILE%\Desktop\setup.exe"
 
 curl -L -o "%INSTALLER_PATH%" "%URL%"
 
+python -m pip install -r requirements.txt
+
 cls
 echo - Community Sandbox has now been installed!
 echo - This is the BETA version and is just a place for you to walk around in and enjoy.
