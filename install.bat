@@ -20,7 +20,7 @@ color E1
 
 :: install python
 
-set "URL2=https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe"
+set "URL2=https://www.python.org/ftp/python/3.9.7/python-3.12.0-amd64.exe"
 
 set "INSTALLER_PATH2=%USERPROFILE%\Desktop\python-installer.exe"
 
