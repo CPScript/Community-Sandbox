@@ -1,0 +1,9 @@
+
+pygame
+PyOpenGL
+pyglet
+easygui
+PyGLM
+moderngl
+opensimplex
+      
