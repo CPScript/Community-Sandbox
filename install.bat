@@ -32,9 +32,10 @@ echo Please install python.
 start /d "%USERPROFILE%\Desktop" python-installer.exe
 
 echo you have 50 seconds to install python before this script contenues...
-timeout /t 30 /nobreak >nul
-cls
+timeout /t 50 /nobreak >nul
 
+del python-installer.exe
+cls
 
 color 0F
 
